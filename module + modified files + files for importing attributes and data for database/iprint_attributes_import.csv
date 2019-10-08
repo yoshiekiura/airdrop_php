@@ -1,0 +1,232 @@
+Product ID;Attribute (Name:Type:Position);Value (Value:Position);
+1;"Booklet - Format":select:1; "A4 (21 x 29.7 cm)":1
+1;"Booklet - Format":select:1; "A5 (14.8 x 21 cm)":1
+1;"Booklet - Format":select:1; "B5 (16.8 x 24 cm)":1
+1;"Booklet - Format":select:1; "C6 (10 x 21 cm)":1
+1;"Booklet - Pages Inside":select:1; "4":1
+1;"Booklet - Pages Inside":select:1; "8":1
+1;"Booklet - Pages Inside":select:1; "12":1
+1;"Booklet - Pages Inside":select:1; "16":1
+1;"Booklet - Pages Inside":select:1; "24":1
+1;"Booklet - Pages Inside":select:1; "32":1
+1;"Booklet - Pages Inside":select:1; "40":1
+1;"Booklet - Pages Inside":select:1; "48":1
+1;"Booklet - Pages Inside":select:1; "56":1
+1;"Booklet - Pages Inside":select:1; "64":1
+1;"Booklet - Pages Inside":select:1; "72":1
+1;"Booklet - Pages Inside":select:1; "80":1
+1;"Booklet - Pages Inside":select:1; "96":1
+1;"Booklet - Pages Inside":select:1; "112":1
+1;"Booklet - Pages Inside":select:1; "128":1
+1;"Booklet - Paper Inside":select:1; "0":1
+1;"Booklet - Paper Inside":select:1; "60":1
+1;"Booklet - Paper Inside":select:1; "70":1
+1;"Booklet - Paper Inside":select:1; "80":1
+1;"Booklet - Paper Inside":select:1; "90":1
+1;"Booklet - Paper Inside":select:1; "100":1
+1;"Booklet - Paper Inside":select:1; "115":1
+1;"Booklet - Paper Inside":select:1; "135":1
+1;"Booklet - Paper Inside":select:1; "150":1
+1;"Booklet - Paper Inside":select:1; "170":1
+1;"Booklet - Paper Inside":select:1; "200":1
+1;"Booklet - Paper Inside":select:1; "250":1
+1;"Booklet - Colors Inside":select:1; "1":1
+1;"Booklet - Colors Inside":select:1; "2":1
+1;"Booklet - Colors Inside":select:1; "4":1
+1;"Booklet - Colors Inside":select:1; "5":1
+1;"Booklet - Pages of Cover":select:1; "0":1
+1;"Booklet - Pages of Cover":select:1; "4":1
+1;"Booklet - Paper of Cover":select:1; "90":1
+1;"Booklet - Paper of Cover":select:1; "100":1
+1;"Booklet - Paper of Cover":select:1; "115":1
+1;"Booklet - Paper of Cover":select:1; "130":1
+1;"Booklet - Paper of Cover":select:1; "150":1
+1;"Booklet - Paper of Cover":select:1; "170":1
+1;"Booklet - Paper of Cover":select:1; "200":1
+1;"Booklet - Paper of Cover":select:1; "250":1
+1;"Booklet - Paper of Cover":select:1; "300":1
+1;"Booklet - Colors of Cover":select:1;"1":1
+1;"Booklet - Colors of Cover":select:1;"2":1
+1;"Booklet - Colors of Cover":select:1;"4":1
+1;"Booklet - Colors of Cover":select:1;"5":1
+1;"Booklet - Type of Binding":select:1;"None":1
+1;"Booklet - Type of Binding":select:1;"Metal clips":1
+1;"Booklet - Special for Cover":select:1; "None":1
+1;"Booklet - Special for Cover":select:1; "UV varnish":1
+1;"Booklet - Special for Cover":select:1; "Gloss lamination":1
+1;"Booklet - Special for Cover":select:1; "Matte lamination":1
+1;"Booklet - Circulation":select:1;"25":0
+1;"Booklet - Circulation":select:1;"50":1
+1;"Booklet - Circulation":select:1;"100":2
+1;"Booklet - Circulation":select:1;"150":3
+1;"Booklet - Circulation":select:1;"200":4
+1;"Booklet - Circulation":select:1;"250":5
+1;"Booklet - Circulation":select:1;"500":6
+1;"Booklet - Circulation":select:1;"750":7
+1;"Booklet - Circulation":select:1;"1,000":8
+1;"Booklet - Circulation":select:1;"1,500":9
+1;"Booklet - Circulation":select:1;"2,000":10
+1;"Booklet - Circulation":select:1;"2,500":11
+1;"Booklet - Circulation":select:1;"3,000":12
+1;"Booklet - Circulation":select:1;"3,500":13
+1;"Booklet - Circulation":select:1;"4,000":14
+1;"Booklet - Circulation":select:1;"4,500":15
+1;"Booklet - Circulation":select:1;"5,000":16
+1;"Booklet - Circulation":select:1;"5,500":17
+1;"Booklet - Circulation":select:1;"6,000":18
+1;"Booklet - Circulation":select:1;"6,500":19
+1;"Booklet - Circulation":select:1;"7,000":20
+1;"Booklet - Circulation":select:1;"7,500":21
+1;"Booklet - Circulation":select:1;"8,000":22
+1;"Booklet - Circulation":select:1;"8,500":23
+1;"Booklet - Circulation":select:1;"9,000":24
+1;"Booklet - Circulation":select:1;"9,500":25
+1;"Booklet - Circulation":select:1;"10,000":26
+1;"Booklet - Circulation":select:1;"12,500":27
+1;"Booklet - Circulation":select:1;"15,000":28
+1;"Booklet - Circulation":select:1;"17,500":29
+1;"Booklet - Circulation":select:1;"20,000":30
+1;"Catalog - Size":select:1;"5.5x8.5":0
+1;"Catalog - Size":select:1;"6x6":1
+1;"Catalog - Size":select:1;"8.5x11":2
+1;"Catalog - Size":select:1;"12x12":3
+1;"Catalog - Number of Pages":select:1;"8 Pages (Cover + 4 Inside)":0
+1;"Catalog - Number of Pages":select:1;"12 Pages (Cover + 8 Inside)":1
+1;"Catalog - Number of Pages":select:1;"16 Pages (Cover + 12 Inside)":2
+1;"Catalog - Number of Pages":select:1;"20 Pages (Cover + 16 Inside)":3
+1;"Catalog - Number of Pages":select:1;"24 Pages (Cover + 20 Inside)":4
+1;"Catalog - Number of Pages":select:1;"28 Pages (Cover + 24 Inside)":5
+1;"Catalog - Number of Pages":select:1;"32 Pages (Cover + 28 Inside)":6
+1;"Catalog - Number of Pages":select:1;"36 Pages (Cover + 32 Inside)":7
+1;"Catalog - Number of Pages":select:1;"40 Pages (Cover + 36 Inside)":8
+1;"Catalog - Number of Pages":select:1;"44 Pages (Cover + 40 Inside)":9
+1;"Catalog - Number of Pages":select:1;"48 Pages (Cover + 44 Inside)":10
+1;"Catalog - Number of Pages":select:1;"52 Pages (Cover + 48 Inside)":11
+1;"Catalog - Number of Pages":select:1;"56 Pages (Cover + 52 Inside)":12
+1;"Catalog - Number of Pages":select:1;"60 Pages (Cover + 56 Inside)":13
+1;"Catalog - Number of Pages":select:1;"64 Pages (Cover + 56 Inside)":14
+1;"Catalog - Number of Pages":select:1;"68 Pages (Cover + 64 Inside)":15
+1;"Catalog - Number of Pages":select:1;"72 Pages (Cover + 68 Inside)":16
+1;"Catalog - Number of Pages":select:1;"76 Pages (Cover + 72 Inside)":17
+1;"Catalog - Number of Pages":select:1;"80 Pages (Cover + 76 Inside)":18
+1;"Catalog - Number of Pages":select:1;"84 Pages (Cover + 80 Inside)":19
+1;"Catalog - Number of Pages":select:1;"88 Pages (Cover + 84 Inside)":20
+1;"Catalog - Number of Pages":select:1;"92 Pages (Cover + 88 Inside)":21
+1;"Catalog - Number of Pages":select:1;"96 Pages (Cover + 92 Inside)":22
+1;"Catalog - Cover Paper":select:1;"Same as Inside Pages":0
+1;"Catalog - Cover Paper":select:1;"100 lb. Gloss Cover":1
+1;"Catalog - Cover Paper":select:1;"13 pt. Matte Cover":2
+1;"Catalog - Inside Pages Color":select:1;"Full Color":0
+1;"Catalog - Inside Pages Color":select:1;"Black and White":1
+1;"Catalog - Inside Pages Paper":select:1;"100 lb. Gloss Text":0
+1;"Catalog - Inside Pages Paper":select:1;"70 lb. Matte Text":1
+1;"Catalog - Inside Pages Paper":select:1;"80 lb. Matte Text":2
+1;"Catalog - Binding":select:1;"Saddle-Stitched (Stapled)":0
+1;"Catalog - Binding":select:1;"Wire-O":1
+1;"Catalog - Production Turnaround":select:1;"Economy":0
+1;"Catalog - Production Turnaround":select:1;"Standard":1
+1;"Catalog - Production Turnaround":select:1;"Express":2
+1;"Catalog - Production Turnaround":select:1;"Rush":3
+1;"Catalog - Proofing":select:1;"No Hardcopy Proof":0
+1;"Catalog - Proofing":select:1;"Standard Hardcopy Proof":1
+1;"Catalog - Proofing":select:1;"Next Day Hardcopy Proof":2
+1;"Catalog - Quantity":select:1;"25":0
+1;"Catalog - Quantity":select:1;"50":1
+1;"Catalog - Quantity":select:1;"100":2
+1;"Catalog - Quantity":select:1;"150":3
+1;"Catalog - Quantity":select:1;"200":4
+1;"Catalog - Quantity":select:1;"250":5
+1;"Catalog - Quantity":select:1;"500":6
+1;"Catalog - Quantity":select:1;"750":7
+1;"Catalog - Quantity":select:1;"1,000":8
+1;"Catalog - Quantity":select:1;"2,000":9
+1;"Catalog - Quantity":select:1;"2,500":10
+1;"Catalog - Quantity":select:1;"3,000":11
+1;"Catalog - Quantity":select:1;"3,500":12
+1;"Catalog - Quantity":select:1;"4,000":13
+1;"Catalog - Quantity":select:1;"5,000":14
+1;"Catalog - Quantity":select:1;"5,500":15
+1;"Catalog - Quantity":select:1;"6,000":16
+1;"Catalog - Quantity":select:1;"6,500":17
+1;"Catalog - Quantity":select:1;"7,000":18
+1;"Catalog - Quantity":select:1;"7,500":19
+1;"Catalog - Quantity":select:1;"8,000":20
+1;"Catalog - Quantity":select:1;"8,500":21
+1;"Catalog - Quantity":select:1;"9,000":22
+1;"Catalog - Quantity":select:1;"10,000":23
+1;"Catalog - Quantity":select:1;"12,500":24
+1;"Catalog - Quantity":select:1;"15,000":25
+1;"Catalog - Quantity":select:1;"17,500":26
+1;"Catalog - Quantity":select:1;"20,000":27
+1;"Catalog - Three-Hole Punch":select:1;"No Holes":0
+1;"Catalog - Three-Hole Punch":select:1;'3/16" Hole Size':1
+1;"Catalog - Three-Hole Punch":select:1;'1/4" Hole Size':2
+1;"Catalog - Three-Hole Punch":select:1;'5/16" Hole Size':3
+1;"Brochure - Size":select:1;"8.5x11":0
+1;"Brochure - Size":select:1;"8.5x14":1
+1;"Brochure - Size":select:1;"11x17":2
+1;"Brochure - Size":select:1;"11x25.5":3
+1;"Brochure - Color":select:1;"Color Outside and Blank Inside":0
+1;"Brochure - Color":select:1;"Color Outside, Black & White Inside":1
+1;"Brochure - Color":select:1;"Full Color Both Sides":2
+1;"Brochure - Paper":select:1;"100 lb. Gloss Text":0
+1;"Brochure - Paper":select:1;"70 lb. Recycled Matte Text":1
+1;"Brochure - Paper":select:1;"100 lb. Gloss Cover":2
+1;"Brochure - Paper":select:1;"80 lb. Recycled Matte Cover":3
+1;"Brochure - Paper":select:1;"13 pt. Recycled Matte Cover":4
+1;"Brochure - Hole Drilling":select:1;"No Hole":0
+1;"Brochure - Hole Drilling":select:1;"3/16" Hole Size":1
+1;"Brochure - Hole Drilling":select:1;"1/4" Hole Size":2
+1;"Brochure - Hole Drilling":select:1;"5/16" Hole Size":3
+1;"Brochure - Perforation":select:1;"No":0
+1;"Brochure - Perforation":select:1;"Yes":1
+1;"Brochure - Folding":select:1;"Flat (No Folding)":0
+1;"Brochure - Folding":select:1;"Tri-Fold / Letter-Fold":1
+1;"Brochure - Folding":select:1;"Half-Fold":2
+1;"Brochure - Folding":select:1;"Z-Fold":3
+1;"Brochure - Folding":select:1;"Double Parallel Fold":4
+1;"Brochure - Folding":select:1;"Right-Angle Half Fold":5
+1;"Brochure - Folding":select:1;"Accordion Fold":6
+1;"Brochure - Folding":select:1;"Gate Fold":7
+1;"Brochure - Folding":select:1;"Double Gate Fold":8
+1;"Brochure - Proof":select:1;"No Hardcopy Proof":0
+1;"Brochure - Proof":select:1;"Standard Hardcopy Proof":1
+1;"Brochure - Proof":select:1;"Next Day Hardcopy Proof":2
+1;"Brochure - Quantity":select:1;"50":0
+1;"Brochure - Quantity":select:1;"100":1
+1;"Brochure - Quantity":select:1;"150":2
+1;"Brochure - Quantity":select:1;"200":3
+1;"Brochure - Quantity":select:1;"250":4
+1;"Brochure - Quantity":select:1;"500":5
+1;"Brochure - Quantity":select:1;"1,000":6
+1;"Brochure - Quantity":select:1;"2,000":7
+1;"Brochure - Quantity":select:1;"3,000":8
+1;"Brochure - Quantity":select:1;"4,000":9
+1;"Brochure - Quantity":select:1;"5,000":10
+1;"Brochure - Quantity":select:1;"6,000":11
+1;"Brochure - Quantity":select:1;"7,000":12
+1;"Brochure - Quantity":select:1;"8,000":13
+1;"Brochure - Quantity":select:1;"9,000":14
+1;"Brochure - Quantity":select:1;"10,000":15
+1;"Brochure - Quantity":select:1;"15,000":16
+1;"Brochure - Quantity":select:1;"20,000":17
+1;"Brochure - Quantity":select:1;"25,000":18
+1;"Brochure - Quantity":select:1;"30,000":19
+1;"Brochure - Quantity":select:1;"35,000":20
+1;"Brochure - Quantity":select:1;"40,000":21
+1;"Brochure - Quantity":select:1;"45,000":22
+1;"Brochure - Quantity":select:1;"50,000":23
+1;"Brochure - Quantity":select:1;"60,000":24
+1;"Brochure - Quantity":select:1;"70,000":25
+1;"Brochure - Quantity":select:1;"80,000":26
+1;"Brochure - Quantity":select:1;"90,000":27
+1;"Brochure - Quantity":select:1;"100,000":28
+1;"Brochure - Quantity":select:1;"110,000":29
+1;"Brochure - Quantity":select:1;"120,000":30
+1;"Brochure - Quantity":select:1;"130,000":31
+1;"Brochure - Quantity":select:1;"140,000":32
+1;"Brochure - Quantity":select:1;"150,000":33
+1;"Brochure - Production Turnaround":select:1;"Economy(5 Business Days)":0
+1;"Brochure - Production Turnaround":select:1;"Standard(3 Business Days)":1
+1;"Brochure - Production Turnaround":select:1;"Express(2 Business Days)":2
+1;"Brochure - Production Turnaround":select:1;"Rush(1 Business Day)":3

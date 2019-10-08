@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head><meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Whitepapers | SocialRemit</title>
+<link rel="stylesheet" href="assets/css/flag-icon.min.css">
+<link rel="stylesheet" href="assets/css/whitepaper_copy.css">
+</head>
+
+<body>
+<div class="wrap">
+<h4 >Whitepapers</h4>
+
+<ul>
+    <li><a class="en" href="doc?lo=en"><img src="/assets/flags/1x1/lr.svg" style="width: 50px;"><span style="display: inline-block;width: 100%; ">English</span></a></li>
+	<li><a class="es" href="doc?lo=es"><img src="/assets/flags/1x1/es.svg" style="width: 50px;"><span style="display: inline-block;width: 100%; ">Español</span></a></li>
+	<li><a class="ru" href="doc?lo=ru"><img src="/assets/flags/1x1/ru.svg" style="width: 50px;"><span style="display: inline-block;width: 100%; ">Русский</span></a></li>
+    <li><a class="cn" href="doc?lo=zh"><img src="/assets/flags/1x1/cn.svg" style="width: 50px;"><span style="display: inline-block;width: 100%; ">简体中文</span></a></li>
+	<li><a class="jp" href="doc?lo=jp"><img src="/assets/flags/1x1/jp.svg" style="width: 50px;"><span style="display: inline-block;width: 100%; ">日本語</span></a></li>
+	<li><a class="kr" href="doc?lo=ko"><img src="/assets/flags/1x1/kr.svg" style="width: 50px;"><span style="display: inline-block;width: 100%; ">한국어</span></a></li>
+	<li><a class="it" href="doc?lo=it"><img src="/assets/flags/1x1/it.svg" style="width: 50px;"><span style="display: inline-block;width: 100%; ">Italiano</span></a></li>
+	<li><a class="de" href="doc?lo=de"><img src="/assets/flags/1x1/de.svg" style="width: 50px;"><span style="display: inline-block;width: 100%; ">Deutsch</span></a></li>
+    <li><a class="sa" href="doc?lo=ar"><img src="/assets/flags/1x1/sa.svg" style="width: 50px;"><span style="display: inline-block;width: 100%; ">اللغة العربية</span></a></li>
+	<li><a class="tr" href="doc?lo=tr"><img src="/assets/flags/1x1/tr.svg" style="width: 50px;"><span style="display: inline-block;width: 100%; ">Türkçe</span></a></li>
+	<li><a class="fr" href="doc?lo=fr"><img src="/assets/flags/1x1/fr.svg" style="width: 50px;"><span style="display: inline-block;width: 100%; ">Français</span></a></li>
+	<li><a class="pl" href="doc?lo=pl"><img src="/assets/flags/1x1/pl.svg" style="width: 50px;"><span style="display: inline-block;width: 100%; ">Polski</span></a></li>
+	<li><a class="hi" href="doc?lo=hi"><img src="/assets/flags/1x1/in.svg" style="width: 50px;"><span style="display: inline-block;width: 100%; ">हिनदी | हिन्दी</span></a></li>
+	<li><a class="vn" href="doc?lo=vi"><img src="/assets/flags/1x1/vn.svg" style="width: 50px;"><span style="display: inline-block;width: 100%; ">Tiếng Việt</span></a></li>
+	<li><a class="pt" href="doc?lo=pt"><img src="/assets/flags/1x1/pt.svg" style="width: 50px;"><span style="display: inline-block;width: 100%; ">Português</span></a></li>
+	<li><a class="il" href="doc?lo=he"><img src="/assets/flags/1x1/il.svg" style="width: 50px;"><span style="display: inline-block;width: 100%; ">עִבְרִית</span></a></li>
+	<li><a class="np" href="doc?lo=ne"><img src="/assets/flags/1x1/np.svg" style="width: 50px;"><span style="display: inline-block;width: 100%; ">नेपाली</span></a></li>
+	<li><a class="ir" href="doc?lo=pr"><img src="/assets/flags/1x1/ir.svg" style="width: 50px;"><span style="display: inline-block;width: 100%; ">ﯽﺳﺭﺎﻓ</span></a></li>
+	<li><a class="dk" href="doc?lo=da"><img src="/assets/flags/1x1/dk.svg" style="width: 50px;"><span style="display: inline-block;width: 100%; ">Dansk</span></a></li>
+	<li><a class="ee" href="doc?lo=et"><img src="/assets/flags/1x1/ee.svg" style="width: 50px;"><span style="display: inline-block;width: 100%; ">Eesti</span></a></li>
+	<li><a class="se" href="doc?lo=se"><img src="/assets/flags/1x1/se.svg" style="width: 50px;"><span style="display: inline-block;width: 100%; ">Svenska</span></a></li>
+	<li><a class="no" href="doc?lo=no"><img src="/assets/flags/1x1/no.svg" style="width: 50px;"><span style="display: inline-block;width: 100%; ">Norsk</span></a></li>
+	<li><a class="gr" href="doc?lo=el"><img src="/assets/flags/1x1/gr.svg" style="width: 50px;"><span style="display: inline-block;width: 100%; ">Ελληνικά</span></a></li>
+	<li><a class="th" href="doc?lo=th"><img src="/assets/flags/1x1/th.svg" style="width: 50px;"><span style="display: inline-block;width: 100%; ">ไทย </span></a></li>
+	<li><a class="my" href="doc?lo=ms"><img src="/assets/flags/1x1/my.svg" style="width: 50px;"><span style="display: inline-block;width: 100%; ">Bahasa Melayu</span></a></li>
+	<li><a class="id" href="doc?lo=id"><img src="/assets/flags/1x1/id.svg" style="width: 50px;"><span style="display: inline-block;width: 100%; ">Bahasa Indonesia</span></a></li>
+	<li><a class="fi" href="doc?lo=fi"><img src="/assets/flags/1x1/fi.svg" style="width: 50px;"><span style="display: inline-block;width: 100%; ">Suomi</span></a></li>
+	<li><a class="ua" href="doc?lo=uk"><img src="/assets/flags/1x1/ua.svg" style="width: 50px;"><span style="display: inline-block;width: 100%; ">Українська</span></a></li>
+	<li><a class="cz" href="doc?lo=cs"><img src="/assets/flags/1x1/cz.svg" style="width: 50px;"><span style="display: inline-block;width: 100%; ">Čeština</span></a></li>
+	<li><a class="hu" href="doc?lo=hu"><img src="/assets/flags/1x1/hu.svg" style="width: 50px;"><span style="display: inline-block;width: 100%; ">Magyar</span></a></li>
+	<li class="empty"><a href="#"></a></li>
+	<li class="empty"><a href="#"></a></li>
+	<li class="empty"><a href="#"></a></li> 
+	<li><a class="ro" href="doc?lo=ro"><img src="/assets/flags/1x1/ro.svg" style="width: 50px;"><span style="display: inline-block;width: 100%; ">Limba Română</span></a></li>
+    <li><a class="nl" href="doc?lo=nl"><img src="/assets/flags/1x1/nl.svg" style="width: 50px;"><span style="display: inline-block;width: 100%; ">Nederlands</span></a></li>
+	</ul>
+	</div>
+</body>
+</html>

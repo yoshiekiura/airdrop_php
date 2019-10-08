@@ -1,0 +1,108 @@
+body,html {
+    background: none !important;
+    background-image: url('/asset/img/illustration_plane.jpg') !important;
+    background-size: cover !important;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#container {padding-top:5%;}
+
+/* .video { padding: 0; z-index:3;background-image: url('../videoframe.png');background-position: center;background-size:55.5%, 30%;background-repeat:no-repeat; } */
+
+.contact-telegram { background-color:#5d9cec; opacity: 1 !important; font-size:1.5rem;border-radius: 10px}
+
+
+.contact-telegram a {
+    color:white;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 40px;}
+
+#about-airdrop {
+	display: block;
+    margin: 0 auto !important;
+ font-family: "SignikaNegative";
+    background: -webkit-linear-gradient(to right, #024c4f, #2da868);
+    background: -moz-linear-gradient(to right, #024c4f, #2da868);
+    background: -o-linear-gradient(to right, #024c4f, #2da868);
+    background: linear-gradient(to right, #024c4f, #2da868);
+    border-radius:15px;
+    width:40%;
+    overflow: hidden;
+    text-align:center;
+	opacity: .9;
+}
+#about-airdrop P {
+	padding: 7.5%;
+	color:#fff;
+	text-align: left;
+	font-size: 1.1vw;
+	line-height: 2vw;
+overflow: hidden;
+margin:0}
+#about-airdrop img {width:65%;
+	float: left;
+	padding:0 2em 1em 0;
+}
+#buttons-choices { padding: 1% 0; width:100%; min-width:100%; margin: 0 auto !important;
+ display: flex;
+  justify-content: center;
+}
+
+#buttons-choices a {
+    display: inline-block;
+    width: 150px;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 40px;
+}
+
+#buttons-choices a:hover, .contact-telegram a:hover {
+color: green;
+}
+
+#login {
+    background-color: #5d9cec;
+}
+#whitepaper {
+    margin-left:15px;
+    background-color: #5d9cec;
+}
+
+@media screen and (max-width:768px)
+{
+	
+	#about-airdrop {
+	display: block;
+    margin: 0 auto !important;
+ font-family: "SignikaNegative";
+    background: -webkit-linear-gradient(to right, #024c4f, #2da868);
+    background: -moz-linear-gradient(to right, #024c4f, #2da868);
+    background: -o-linear-gradient(to right, #024c4f, #2da868);
+    background: linear-gradient(to right, #024c4f, #2da868);
+    border-radius:15px;
+    width:80%;
+    overflow: hidden;
+    text-align:center;
+	opacity: .9;
+}
+#about-airdrop P {
+	padding: 7.5%;
+	color:#fff;
+	text-align: left;
+	font-size: 2.2vw;
+	line-height: 4vw;
+overflow: hidden;
+margin:0}
+#about-airdrop img {width:75%;
+	float: left;
+	padding:0 2em 1em 0;
+}
+    .contact-telegram{
+        width: 80% !important;
+    }
+}
